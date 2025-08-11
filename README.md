@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets about TESLA.
+# Public Perception of Tesla: A Sentiment Analysis of Tweets
 
 ## Table of contents
 - [Project Overview](#project-overview)
