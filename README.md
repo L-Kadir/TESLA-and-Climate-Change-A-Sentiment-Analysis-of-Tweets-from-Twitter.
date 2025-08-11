@@ -1,4 +1,4 @@
-# TESLA and Climate Change: A Sentiment Analysis of Tweets from Twitter.
+# Sentiment Analysis of Tweets about TESLA.
 
 ## Table of contents
 - [Project Overview](#project-overview)
